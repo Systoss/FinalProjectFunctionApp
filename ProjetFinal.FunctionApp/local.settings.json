@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "str": "\"Data Source=20.188.33.70,1433\\\\SQL2017;Initial Catalog=TeamTimDbProd;Persist Security Info=True;User ID=TeamTimDbTest;Password=v(/K56RnE2nrP~n!/4s*@F=c46v8Z2WM\"",
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "7342d0cc-cce2-4a66-9828-6b9879781c8b",
+    "WEBSITE_NODE_DEFAULT_VERSION": "8.11.1",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=functionappchan833a;AccountKey=pSlfeqT9Wl+oeHCnDygTpsn4o8NTlD1C/gzbazEhO4HuI60fRDFMkBPINZ6eck/CUCNEurH7Ybnw1HcdFLjCwQ==",
+    "WEBSITE_CONTENTSHARE": "functionappchangestatuitproduit833a",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "WEBSITE_SITE_NAME": "FunctionAppChangeStatuitProduit",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=functionappchan833a;AccountKey=pSlfeqT9Wl+oeHCnDygTpsn4o8NTlD1C/gzbazEhO4HuI60fRDFMkBPINZ6eck/CUCNEurH7Ybnw1HcdFLjCwQ=="
+  }
+}
