@@ -12,7 +12,7 @@ namespace ProjetFinal.FunctionApp
         [FunctionName("Function1")]
         public async static void Run([TimerTrigger("*/15 * * * * *")]TimerInfo myTimer, ILogger log)
         {
-            string str = "Data Source=20.188.33.70,1433\\SQL2017;Initial Catalog=TeamTimDbProd;Persist Security Info=True;User ID=TeamTimDbTest;Password=v(/K56RnE2nrP~n!/4s*@F=c46v8Z2WM";
+            string str = "Data Source=20.188.33.70,1433\\SQL2017;Initial Catalog=TeamTimDbProd;Persist Security Info=True;User ID=TeamTimDbProd;Password=v(/K56RnE2nrP~n!/4s*@F=c46v8Z2WM";
             using (SqlConnection conn = new SqlConnection(str))
             {
                 try

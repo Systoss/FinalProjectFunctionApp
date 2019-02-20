@@ -1,7 +1,7 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "str": "\"Data Source=20.188.33.70,1433\\\\SQL2017;Initial Catalog=TeamTimDbProd;Persist Security Info=True;User ID=TeamTimDbTest;Password=v(/K56RnE2nrP~n!/4s*@F=c46v8Z2WM\"",
+    "str": "Data Source=20.188.33.70,1433\\SQL2017;Initial Catalog=TeamTimDbProd;Persist Security Info=True;User ID=TeamTimDbProd;Password=v(/K56RnE2nrP~n!/4s*@F=c46v8Z2WM",
     "WEBSITE_SLOT_NAME": "Production",
     "FUNCTIONS_EXTENSION_VERSION": "~2",
     "ScmType": "None",
